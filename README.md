@@ -2,8 +2,11 @@
 ---
 ### What should you do that will get to school faster?
 
-[Walk To School]  (walk/walk.md)
-[Take the Train] (train/train.md)
-[Take the Bus] (bus/bus.md)
+[Walk To School]  (walk/walk.md)  
+
+[Take the Train] (train/train.md)  
+
+[Take the Bus] (bus/bus.md)  
+
 
 
