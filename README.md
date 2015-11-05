@@ -7,6 +7,10 @@
 [Take the Train] (train/train.md)  
 
 [Take the Bus] (bus/bus.md)  
+----
 
+The purpose of this project was to demonstrate all of our knowledge about Collaboration and how to link files into a project that was done in partners.  
+--
+####By:Maria Cortez and Daniel Jeronimal
 
 
