@@ -6,6 +6,6 @@ What Are you going to do?
  [Take the N train](maketrans.md)  
 ##### _Remeber that it will take you about 10minutes to get there_
  
- ##_or_  
+ _or_  
  
  [Go Home](gohome.md)  
