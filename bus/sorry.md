@@ -1,3 +1,3 @@
 #Sorry
 You did the right thing! You get to school on time!
-##[Get to school](../README.md
+##[Go to school](../README.md)
