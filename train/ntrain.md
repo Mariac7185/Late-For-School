@@ -6,6 +6,6 @@
 
 Or  
 
-[Go to School](gotoschool.md)  
+[Make a transfer to the N train](maketrans.md)  
 
 
