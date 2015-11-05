@@ -6,6 +6,6 @@
 
 Or  
 
-[Make a transfer to the N train](maketrans.md)  
+[Make a transfer to the R train](maketrans.md)  
 
 
