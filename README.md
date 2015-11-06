@@ -1,4 +1,4 @@
-# IT'S 7:50am you are late. ou only have 20 minutes to get to school!
+# IT'S 7:50am you are late.You only have 20 minutes to get to school!
 ---
 ### What should you do that will get to school faster?
 
